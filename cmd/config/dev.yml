@@ -1,0 +1,7 @@
+---
+db:
+  host: "localhost"
+  port: "55432"
+  user: "main-api"
+  password: "main-api"
+  name: "main-api"
